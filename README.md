@@ -7,3 +7,5 @@ This is a simple console application that visualizes a hike based on user input.
 - Use the Up/Down/Right arrow keys to create a hike.
 - Press Q to quit.
 
+https://github.com/user-attachments/assets/b0fc9486-066e-4729-8124-2ea84844e566
+
